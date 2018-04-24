@@ -1,0 +1,14 @@
+{
+  "name": "Scihub",
+  "version": "1.0",
+  "manifest_version": 2,
+  "background": {
+    "scripts": [
+      "click.js"
+    ]
+  },
+  "browser_action": {},
+  "permissions": [
+    "tabs"
+  ]
+}
