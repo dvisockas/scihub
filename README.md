@@ -1,6 +1,8 @@
 # Usage
+
 Clone the repository
 - `$ git clone git@github.com:dvisockas/scihub.git`
+
 Install the plugin
 - In your chrome, navigate to `chrome://extensions`
 - Click `Load unpacked extension...`
